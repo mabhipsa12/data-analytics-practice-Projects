@@ -46,21 +46,21 @@ The dataset (in CSV format) was imported into Power BI Desktop.
 New measures were created for:
 
 - Total Sales = SUM(Sales)
-  
 
+  https://github.com/mabhipsa12/data-analytics-practice-Projects/blob/main/PowerBI/Screenshot%202025-05-16%20122026.png
 
 - Average Sales = AVERAGE(Sales)
   
-![Image](https://github.com/user-attachments/assets/3790e6c0-d2d6-465b-9ed7-db6dfe5f371e)
+https://github.com/mabhipsa12/data-analytics-practice-Projects/blob/main/PowerBI/Screenshot%202025-05-16%20122046.png
 
 - Number of Items = DISTINCTCOUNT(Item_Identifier)
   
-![Image](https://github.com/user-attachments/assets/ed868078-b9c0-4de8-af8c-8d6c216d81a0)
+https://github.com/mabhipsa12/data-analytics-practice-Projects/blob/main/PowerBI/Screenshot%202025-05-16%20122106.png
 
 - Average Rating = AVERAGE(Rating)
   
-![Image](https://github.com/user-attachments/assets/d721d6df-61e5-45a9-8aab-0abe015152d8)
-    
+https://github.com/mabhipsa12/data-analytics-practice-Projects/blob/8a3d1433f60bceb14267357d0ac4625234a03283/PowerBI/Screenshot%202025-05-16%20122056.png
+
 #These were used in card visuals and charts for KPI representation.
 
 ## Step 8: Dashboard Layouting
@@ -141,6 +141,6 @@ The following visuals were developed:
 
 ## DASHBOARD SCREENSHOT
 
-
+https://github.com/mabhipsa12/data-analytics-practice-Projects/blob/main/PowerBI/Screenshot%202025-05-16%20145948.png
 
 

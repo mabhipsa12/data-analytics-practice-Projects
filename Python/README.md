@@ -1,10 +1,10 @@
-# 📊 Excel Projects
+# 🐍 Python Projects
 
-Projects done using Microsoft Excel, focusing on:
+Projects developed in Python for data analysis, automation, and preprocessing.
 
-- Dashboards
-- Pivot tables and charts
-- Sales and business analysis
+### Tools Used:
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn (for basic ML in some cases)
 
 ### 📂 Projects:
 

@@ -1,6 +1,5 @@
 # Blinkit-Sales-Dashboard
 
-
 This Power BI dashboard is designed to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key business insights and optimization opportunities across different outlets, item types, and customer preferences.
 
 The report uses interactive visualizations to analyze KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Customer Rating. These insights help Blinkit make data-driven decisions to enhance customer experience and optimize sales strategies across various outlet types, sizes, and locations.
@@ -143,3 +142,5 @@ The following visuals were developed:
 ## DASHBOARD SCREENSHOT
 
 ![Image](https://github.com/user-attachments/assets/2cc0427a-3766-42a2-81d0-35cc438ab77f)
+
+
